@@ -4,5 +4,8 @@
   "description": "Backend for wishlist app",
   "main": "index.js",
   "author": "Cosmin Cioacla",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
