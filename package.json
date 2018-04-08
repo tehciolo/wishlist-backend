@@ -1,0 +1,8 @@
+{
+  "name": "wishlist-backend",
+  "version": "1.0.0",
+  "description": "Backend for wishlist app",
+  "main": "index.js",
+  "author": "Cosmin Cioacla",
+  "license": "MIT"
+}
